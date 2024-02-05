@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "homeauctiondeals",
+  "private_key_id": "ec31743fd08ff254db4c6d2bce06ea892200a86e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+lfpcGXqn9s+E\nj0Kg5m3odOQQELu9smznC7t3OZd3WlMyYJs/VVdrDoE/gPK0sWe1CgDM0xaJTDZH\nJLN+fSEtotSe2j90wqnpPhrwiD1UsC85x/EST+C86fwv2SopMLeu9e4j4tXGo6iN\ngOXuuryVqOBOnHaUrtKgydvIUVJB8yETHKSctaHA58CPG9QhuZgqT2JZvEKBT2ph\nRj5fed8EOf0+ww0EQCaGH8ao6urZGzoKiCxCafqyom6eds9h8a65U1Ryl6WSZa0m\nnbJh9VvBDaV0lcMEnrzXVSJlsLkzrMs7tRpiPgwyPuesrs7GpQwPm2Xnmaz8HMAK\nO9ICgxXVAgMBAAECggEAFj+GzuqQhXwL5JMeuY68xNakavWxHOdvzBb0Bup7soyi\nSq65YM7TGiXC08l3S72r+BfXWRHJPzTc3zg7FeiAj4XDIVoj7zrsP9Smq26UDkdU\n8/9RtowJlbQQ4vsMb2uG/c8qwhiwUPR48C/cZ5539laU/MhKFXhFEU0PMZbArf8C\nPguQp0okUeatlZj9mayw//jSWS58udR5obZJQfg0EEyOOd8ASfid6VnhubUzNkLB\nTHspnFnCviP659TwyMCyRbophg/IoJMiUXZlCfxeMc3muyshzqBMigIq4h5Jey+p\nXZVZIQa4Q7f1sNKP2hNxu2KwiARAm9JgKVGpGFB8bwKBgQD/kuGtdUT5Yp7zW1U/\nQ2Xv5CKL518Z5GZnWgwui6st6u7W4Dk6nFOQvtE97ARyC69PXbjmsRbNQCtnO5rx\nmQciuL4lx3u2R4Tq/nakBmvrsVOYrRmNWyoKidfGBiFdt5eWQWu84oEPxdOF2K9g\ntWsoZyRlgxSzPFCC/qsbPaMqXwKBgQC+51l53GifiG3+syma8/eDpQddzMRB+68o\nVPprGlAWdGf+QD9uSfqcCXfBr96PkxT2zAwvncKiyNKUN3sOqoiR2Au++1+0lqB7\nVOJKug2Slpu7du4qMU62NRsWQtgREQAGGywlWqrj4Zy1PTXMtaXX/E5hsV8xZNDF\n6he3/cHUSwKBgFRGsCqN0BfYgIfJJ1w8MmIfvZCa1E5qdaZBGGFE50a2ANpUiCqe\noCPL+J3NtU2SMtYeFrnjzZwTO/zHt/lRN/woJXO5yz65aMhA7wh5oZ7QE7v14MYv\nOLbO65s+LESGJPOEUS2xF1QHLRAm+vYN/O8Oy/65cdsE2ZvItM2/zo1LAoGATCh9\nUJk2f9Zskzykb3W+m50dmDUVYoFmuj9Ue5/OrXaY+hxlcbk/qjo4tWNU9ZAmv+Jd\nRi24tTpKj+imRg6QVyaKYRFld+TTdwBBGrCos38z95CVqO1sylHbUYEvM3fFu6nh\nbbGDFVAvNTqLGPSqicTU/DJHmKvwgdRGzBcG2YsCgYEAqdFQtjl8hpm+vBh0faph\nS1U73ItBsI966DpVEoRxOcZzhnMuJ664IiSLnRoSGJkMa58IfC/Y+61K8c1vlvgr\nNeeshUREuz52PK1KKDKRm32zm+1SBGzuvPusWt+Al+XvEoPrr+h/gBqIoNCDKYU0\nNM453Yx0jbHIv71xXJ1HsgY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "homeauctionenquiryform@homeauctiondeals.iam.gserviceaccount.com",
+  "client_id": "110833252533535100747",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/homeauctionenquiryform%40homeauctiondeals.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
